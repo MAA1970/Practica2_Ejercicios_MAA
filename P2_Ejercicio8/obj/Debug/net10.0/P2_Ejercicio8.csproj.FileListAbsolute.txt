@@ -1,0 +1,15 @@
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\bin\Debug\net10.0\P2_Ejercicio8.exe
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\bin\Debug\net10.0\P2_Ejercicio8.deps.json
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\bin\Debug\net10.0\P2_Ejercicio8.runtimeconfig.json
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\bin\Debug\net10.0\P2_Ejercicio8.dll
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\bin\Debug\net10.0\P2_Ejercicio8.pdb
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\obj\Debug\net10.0\P2_Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\obj\Debug\net10.0\P2_Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\obj\Debug\net10.0\P2_Ejercicio8.AssemblyInfo.cs
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\obj\Debug\net10.0\P2_Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\obj\Debug\net10.0\P2_Ejercicio8.dll
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\obj\Debug\net10.0\refint\P2_Ejercicio8.dll
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\obj\Debug\net10.0\P2_Ejercicio8.pdb
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\obj\Debug\net10.0\P2_Ejercicio8.genruntimeconfig.cache
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\obj\Debug\net10.0\ref\P2_Ejercicio8.dll
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio8\obj\Debug\net10.0\P2_Ejerc.4D9FA00C.Up2Date

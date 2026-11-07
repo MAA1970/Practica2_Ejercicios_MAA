@@ -1,0 +1,15 @@
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\bin\Debug\net10.0\P2_Ejercicio1_4_5.exe
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\bin\Debug\net10.0\P2_Ejercicio1_4_5.deps.json
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\bin\Debug\net10.0\P2_Ejercicio1_4_5.runtimeconfig.json
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\bin\Debug\net10.0\P2_Ejercicio1_4_5.dll
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\bin\Debug\net10.0\P2_Ejercicio1_4_5.pdb
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\obj\Debug\net10.0\P2_Ejercicio1_4_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\obj\Debug\net10.0\P2_Ejercicio1_4_5.AssemblyInfoInputs.cache
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\obj\Debug\net10.0\P2_Ejercicio1_4_5.AssemblyInfo.cs
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\obj\Debug\net10.0\P2_Ejercicio1_4_5.csproj.CoreCompileInputs.cache
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\obj\Debug\net10.0\P2_Ejercicio1_4_5.dll
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\obj\Debug\net10.0\refint\P2_Ejercicio1_4_5.dll
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\obj\Debug\net10.0\P2_Ejercicio1_4_5.pdb
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\obj\Debug\net10.0\P2_Ejercicio1_4_5.genruntimeconfig.cache
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\obj\Debug\net10.0\ref\P2_Ejercicio1_4_5.dll
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\P2_Ejercicio1_4_5\obj\Debug\net10.0\P2_Ejerc.3AB4F20B.Up2Date

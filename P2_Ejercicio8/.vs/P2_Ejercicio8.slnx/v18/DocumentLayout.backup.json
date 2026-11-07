@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\developer06.CAPISTRANO\\source\\repos\\Practica_2\\P2_Ejercicio8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29655A01-EBDA-4DB8-8A69-64E45E7BA203}|P2_Ejercicio8.csproj|c:\\users\\developer06.capistrano\\source\\repos\\practica_2\\p2_ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29655A01-EBDA-4DB8-8A69-64E45E7BA203}|P2_Ejercicio8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29655A01-EBDA-4DB8-8A69-64E45E7BA203}|P2_Ejercicio8.csproj|c:\\users\\developer06.capistrano\\source\\repos\\practica_2\\p2_ejercicio8\\pelicano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29655A01-EBDA-4DB8-8A69-64E45E7BA203}|P2_Ejercicio8.csproj|solutionrelative:pelicano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29655A01-EBDA-4DB8-8A69-64E45E7BA203}|P2_Ejercicio8.csproj|c:\\users\\developer06.capistrano\\source\\repos\\practica_2\\p2_ejercicio8\\ballena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29655A01-EBDA-4DB8-8A69-64E45E7BA203}|P2_Ejercicio8.csproj|solutionrelative:ballena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29655A01-EBDA-4DB8-8A69-64E45E7BA203}|P2_Ejercicio8.csproj|c:\\users\\developer06.capistrano\\source\\repos\\practica_2\\p2_ejercicio8\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29655A01-EBDA-4DB8-8A69-64E45E7BA203}|P2_Ejercicio8.csproj|solutionrelative:perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29655A01-EBDA-4DB8-8A69-64E45E7BA203}|P2_Ejercicio8.csproj|c:\\users\\developer06.capistrano\\source\\repos\\practica_2\\p2_ejercicio8\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29655A01-EBDA-4DB8-8A69-64E45E7BA203}|P2_Ejercicio8.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pelicano.cs",
+              "DocumentMoniker": "C:\\Users\\developer06.CAPISTRANO\\source\\repos\\Practica_2\\P2_Ejercicio8\\Pelicano.cs",
+              "RelativeDocumentMoniker": "Pelicano.cs",
+              "ToolTip": "C:\\Users\\developer06.CAPISTRANO\\source\\repos\\Practica_2\\P2_Ejercicio8\\Pelicano.cs",
+              "RelativeToolTip": "Pelicano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:43:13.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ballena.cs",
+              "DocumentMoniker": "C:\\Users\\developer06.CAPISTRANO\\source\\repos\\Practica_2\\P2_Ejercicio8\\Ballena.cs",
+              "RelativeDocumentMoniker": "Ballena.cs",
+              "ToolTip": "C:\\Users\\developer06.CAPISTRANO\\source\\repos\\Practica_2\\P2_Ejercicio8\\Ballena.cs",
+              "RelativeToolTip": "Ballena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:41:56.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\developer06.CAPISTRANO\\source\\repos\\Practica_2\\P2_Ejercicio8\\Perro.cs",
+              "RelativeDocumentMoniker": "Perro.cs",
+              "ToolTip": "C:\\Users\\developer06.CAPISTRANO\\source\\repos\\Practica_2\\P2_Ejercicio8\\Perro.cs",
+              "RelativeToolTip": "Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:39:46.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\developer06.CAPISTRANO\\source\\repos\\Practica_2\\P2_Ejercicio8\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\developer06.CAPISTRANO\\source\\repos\\Practica_2\\P2_Ejercicio8\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:38:27.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\developer06.CAPISTRANO\\source\\repos\\Practica_2\\P2_Ejercicio8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\developer06.CAPISTRANO\\source\\repos\\Practica_2\\P2_Ejercicio8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:37:29.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

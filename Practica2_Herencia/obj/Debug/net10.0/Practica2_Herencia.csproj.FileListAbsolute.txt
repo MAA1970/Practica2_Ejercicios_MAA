@@ -1,0 +1,15 @@
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\obj\Debug\net10.0\Practica2_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\obj\Debug\net10.0\Practica2_Herencia.AssemblyInfoInputs.cache
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\obj\Debug\net10.0\Practica2_Herencia.AssemblyInfo.cs
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\obj\Debug\net10.0\Practica2_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\bin\Debug\net10.0\Practica2_Herencia.exe
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\bin\Debug\net10.0\Practica2_Herencia.deps.json
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\bin\Debug\net10.0\Practica2_Herencia.runtimeconfig.json
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\bin\Debug\net10.0\Practica2_Herencia.dll
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\bin\Debug\net10.0\Practica2_Herencia.pdb
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\obj\Debug\net10.0\Practica2_Herencia.dll
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\obj\Debug\net10.0\refint\Practica2_Herencia.dll
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\obj\Debug\net10.0\Practica2_Herencia.pdb
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\obj\Debug\net10.0\Practica2_Herencia.genruntimeconfig.cache
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\obj\Debug\net10.0\ref\Practica2_Herencia.dll
+C:\Users\developer06.CAPISTRANO\source\repos\Practica_2\Practica2_Herencia\obj\Debug\net10.0\Practica.B9B2280C.Up2Date
